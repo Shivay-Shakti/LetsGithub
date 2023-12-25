@@ -1,2 +1,1 @@
-# LetsGithub
-This is awesome
+Best of Luck
